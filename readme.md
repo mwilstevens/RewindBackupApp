@@ -1,6 +1,6 @@
 # Rewind Backup App
 
-The Rewind Backup App is a simple Python GUI application designed to help you back up and restore the contents of a specific folder. It provides an intuitive interface to perform backup and restore operations with ease.
+Inspired by [Rewind.AI](https://rewind.ai). The Rewind Backup App is a simple Python GUI application designed to help you back up and restore the contents of a specific folder. It provides an intuitive interface to perform backup and restore operations with ease.
 
 ## Features
 
