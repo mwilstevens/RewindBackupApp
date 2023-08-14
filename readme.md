@@ -39,7 +39,7 @@ The Rewind Backup App is a simple Python GUI application designed to help you ba
 
 The app's user interface is designed with a purple background (#bb86fc) and clear instructions to guide you through the backup and restore process. Buttons and labels are displayed with larger fonts for better readability.
 
-![App Image]([https://assets.digitalocean.com/articles/alligator/boo.svg ](https://www.evernote.com/shard/s312/sh/39af6ff0-313b-4ded-83ba-da4f7ed2e643/3CIzST9RwiTD19D_XyrgOv67Y3Crs2Z5f_rVTbvj2uJ4tCoSHrytVR65AA))
+![App Image]((https://www.evernote.com/shard/s312/sh/39af6ff0-313b-4ded-83ba-da4f7ed2e643/3CIzST9RwiTD19D_XyrgOv67Y3Crs2Z5f_rVTbvj2uJ4tCoSHrytVR65AA)
 
 ## Note
 
