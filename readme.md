@@ -41,9 +41,6 @@ The app's user interface is designed with a purple background (#bb86fc) and clea
 
 ![App Image](/app.png?raw=true "App Image")
 
-## Note
-
-- The app is designed to back up and restore the contents of a specific folder. Make sure to customize the script according to your use case.
 
 ## License
 
